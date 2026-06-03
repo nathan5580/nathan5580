@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/n8-banner.svg" alt="n8" width="420">
+  <img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/n8-banner.svg" alt="n8" width="420">
 </p>
 
 <p align="center">
