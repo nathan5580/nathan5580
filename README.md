@@ -1,6 +1,10 @@
-# Hi, I'm Nathan 👋
+<p align="center">
+  <img src="./assets/n8-banner.svg" alt="n8" width="420">
+</p>
 
-.NET developer based in **Luxembourg 🇱🇺** — building fast, opinionated backends and apps with **.NET 10 · Blazor · Aspire · AI agents**.
+<p align="center">
+  .NET developer based in <b>Luxembourg 🇱🇺</b> — building fast, opinionated backends and apps with <b>.NET 10 · Blazor · Aspire · AI agents</b>.
+</p>
 
 ---
 
