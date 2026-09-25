@@ -1,65 +1,53 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/n8-banner.svg" alt="n8 — Nathan" width="820">
+  <a href="https://n8.lu/"><img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/portfolio-hero.png" alt="n8 studio — pixel n8 mark, Geist headline, and pink particle arc" width="100%"></a>
+</p>
+
+<p align="center"><code>NATHAN / .NET DEVELOPER / LUXEMBOURG</code></p>
+
+<p align="center">
+  I build focused apps, developer tools, and software that earns its place.<br>
+  From thoughtful iOS experiences to production-grade .NET backends.
 </p>
 
 <p align="center">
-  .NET developer based in <b>Luxembourg 🇱🇺</b> — building fast, opinionated backends and apps with <b>.NET 10 · Blazor · Aspire · AI agents</b>.
+  <a href="https://n8.lu/">EXPLORE THE PORTFOLIO</a> &nbsp;·&nbsp;
+  <a href="https://n8.lu/#work">SELECTED WORK</a> &nbsp;·&nbsp;
+  <a href="mailto:hi@n8.lu">GET IN TOUCH</a>
 </p>
+
+---
+
+## 01 / What I build
+
+| | Focus |
+| :-- | :-- |
+| `APPS` | Small, useful products with careful interfaces and calm interactions. |
+| `DEVELOPER TOOLS` | Drop-in .NET libraries, dashboards, and templates that stay out of the way. |
+| `SYSTEMS` | Blazor and ASP.NET Core apps, AI orchestration, Orleans, and Aspire. |
+
+## 02 / Selected open source
+
+**[QuartzDashboard](https://github.com/nathan5580/QuartzDashboard)**  
+A self-contained Quartz.NET scheduler dashboard for ASP.NET Core. Drop it in with two lines of code.
+
+**[.NET Clean Architecture Template](https://github.com/nathan5580/dotnet-clean-arch-template)**  
+A production-grade .NET 10 starter with co-hosted Blazor WebAssembly, bounded contexts, and conventions enforced in tests.
+
+**[CopilotDemo](https://github.com/nathan5580/CopilotDemo)**  
+A .NET 10 Blazor WebAssembly and Tailwind directory browser for experimenting with AI-assisted development.
+
+[See the full portfolio →](https://n8.lu/#work)
+
+## 03 / Toolkit
+
+`C#` · `.NET 10` · `ASP.NET Core` · `Blazor` · `Orleans` · `Aspire` · `PostgreSQL` · `Azure`
+
+---
 
 <p align="center">
-  <a href="https://github.com/nathan5580"><img alt="GitHub" src="https://img.shields.io/badge/nathan5580-05010d?style=flat-square&logo=github&logoColor=ff0080&labelColor=05010d"></a>
-  &nbsp;
-  <a href="https://n8.lu"><img alt="Website n8.lu" src="https://img.shields.io/badge/n8.lu-05010d?style=flat-square&logo=googlechrome&logoColor=00d4ff&labelColor=05010d"></a>
+  <a href="https://n8.lu/">n8.lu</a> &nbsp;·&nbsp;
+  <a href="https://github.com/nathan5580?tab=repositories">GitHub repositories</a> &nbsp;·&nbsp;
+  <a href="mailto:hi@n8.lu">hi@n8.lu</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/divider.svg" alt="" width="100%">
-
-## 🔧 What I build
-
-- 🤖 AI orchestration & agentic systems
-- 📅 Drop-in libraries & dev tooling for .NET
-- 🌐 Full-stack Blazor & ASP.NET Core apps
-- ⚡ High-performance backends with Orleans & Aspire
-
-<img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/divider.svg" alt="" width="100%">
-
-## 📌 Open source
-
-### [QuartzDashboard](https://github.com/nathan5580/QuartzDashboard)
-
-> A beautiful, self-contained Quartz.NET scheduler dashboard — drop it into any ASP.NET Core app with two lines of code.
-
-`dotnet` &nbsp;`aspnetcore` &nbsp;`quartz-net` &nbsp;`blazor` &nbsp;`scheduler` &nbsp;`nuget`
-
-<p align="center">
-  <a href="https://github.com/nathan5580/QuartzDashboard">
-    <img alt="QuartzDashboard" src="https://github-readme-stats.vercel.app/api/pin/?username=nathan5580&repo=QuartzDashboard&hide_border=false&border_color=2a3550&bg_color=05010d&title_color=00d4ff&icon_color=ff0080&text_color=c9d4e6">
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/divider.svg" alt="" width="100%">
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img alt="Nathan's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=nathan5580&show_icons=true&hide_border=false&border_color=2a3550&bg_color=05010d&title_color=00d4ff&icon_color=ff0080&text_color=c9d4e6">
-  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan5580&layout=compact&hide_border=false&border_color=2a3550&bg_color=05010d&title_color=00d4ff&text_color=c9d4e6">
-</p>
-
-<img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/divider.svg" alt="" width="100%">
-
-## 🛠 Stack
-
-<p align="center">
-  <img alt=".NET 10" src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
-  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-</p>
-
-<img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/divider.svg" alt="" width="100%">
-
-<p align="center">
-  <a href="https://n8.lu"><img alt="Visit n8.lu" src="https://img.shields.io/badge/Visit_n8.lu-05010d?style=for-the-badge&logo=googlechrome&logoColor=00d4ff&labelColor=05010d"></a>
-</p>
+<p align="center"><sub>Built quietly. Shipped with care.</sub></p>
