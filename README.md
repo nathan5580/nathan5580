@@ -1,53 +1,64 @@
 <p align="center">
-  <a href="https://n8.lu/"><img src="https://raw.githubusercontent.com/nathan5580/nathan5580/main/assets/portfolio-hero.png" alt="n8 studio — pixel n8 mark, Geist headline, and pink particle arc" width="100%"></a>
-</p>
-
-<p align="center"><code>NATHAN / .NET DEVELOPER / LUXEMBOURG</code></p>
-
-<p align="center">
-  I build focused apps, developer tools, and software that earns its place.<br>
-  From thoughtful iOS experiences to production-grade .NET backends.
+  <a href="https://n8.lu/"><img src="assets/portfolio-hero.png" alt="Independent software. Built by Nathan. A magenta and cyan pixel eight on a dark atmospheric background." width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://n8.lu/">EXPLORE THE PORTFOLIO</a> &nbsp;·&nbsp;
-  <a href="https://n8.lu/#work">SELECTED WORK</a> &nbsp;·&nbsp;
-  <a href="mailto:hi@n8.lu">GET IN TOUCH</a>
+  Independent developer in Luxembourg.<br>
+  I design, build and maintain apps, developer tools and the systems behind them.
+</p>
+
+<p align="center">
+  <a href="https://n8.lu/"><strong>Explore n8 studio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://github.com/nathan5580?tab=repositories">Browse the code</a> &nbsp; / &nbsp;
+  <a href="mailto:hi@n8.lu">Get in touch</a>
 </p>
 
 ---
 
-## 01 / What I build
+## 01 / Selected work
 
-| | Focus |
-| :-- | :-- |
-| `APPS` | Small, useful products with careful interfaces and calm interactions. |
-| `DEVELOPER TOOLS` | Drop-in .NET libraries, dashboards, and templates that stay out of the way. |
-| `SYSTEMS` | Blazor and ASP.NET Core apps, AI orchestration, Orleans, and Aspire. |
+### [Letz Park+ ↗](https://n8.lu/apps/luxembourg-live-parking/)
 
-## 02 / Selected open source
+Parking and public transport in Luxembourg. Live spaces, forecasts, departures and CarPlay.
 
-**[QuartzDashboard](https://github.com/nathan5580/QuartzDashboard)**  
-A self-contained Quartz.NET scheduler dashboard for ASP.NET Core. Drop it in with two lines of code.
+`SwiftUI` · `.NET` · `Orleans`
 
-**[.NET Clean Architecture Template](https://github.com/nathan5580/dotnet-clean-arch-template)**  
-A production-grade .NET 10 starter with co-hosted Blazor WebAssembly, bounded contexts, and conventions enforced in tests.
+### [Quartz Supervisor ↗](https://github.com/nathan5580/QuartzSupervisor)
 
-**[CopilotDemo](https://github.com/nathan5580/CopilotDemo)**  
-A .NET 10 Blazor WebAssembly and Tailwind directory browser for experimenting with AI-assisted development.
+An embedded, read-only Quartz.NET dashboard for ASP.NET Core applications.
 
-[See the full portfolio →](https://n8.lu/#work)
+`C#` · `ASP.NET Core` · `Quartz.NET`
 
-## 03 / Toolkit
+### [.NET Clean Architecture ↗](https://github.com/nathan5580/dotnet-clean-arch-template)
 
-`C#` · `.NET 10` · `ASP.NET Core` · `Blazor` · `Orleans` · `Aspire` · `PostgreSQL` · `Azure`
+A .NET 10 starter with bounded contexts and architectural conventions enforced by tests.
+
+`.NET 10` · `Blazor` · `Architecture`
+
+### [Dot.Conductor ↗](https://www.nuget.org/packages/Dot.Conductor/)
+
+A fluent Unit of Work and Repository library for Entity Framework Core, with multi-tenancy and temporal queries.
+
+`C#` · `EF Core` · `NuGet`
+
+[More apps, tools and experiments →](https://n8.lu/#work)
+
+## 02 / How I build
+
+**Useful first.** Real problems, focused products, interfaces that stay out of the way.  
+**End to end.** From the first screen to the API, deployment and maintenance.  
+**Open where it helps.** Libraries and templates that other developers can use.
+
+## 03 / Working with
+
+`SwiftUI` · `C#` · `.NET` · `Blazor` · `Orleans` · `Aspire` · `PostgreSQL` · `Cloudflare`
 
 ---
 
 <p align="center">
   <a href="https://n8.lu/">n8.lu</a> &nbsp;·&nbsp;
-  <a href="https://github.com/nathan5580?tab=repositories">GitHub repositories</a> &nbsp;·&nbsp;
+  <a href="https://status.n8.lu/">Service status</a> &nbsp;·&nbsp;
   <a href="mailto:hi@n8.lu">hi@n8.lu</a>
 </p>
 
-<p align="center"><sub>Built quietly. Shipped with care.</sub></p>
+<p align="center"><sub>Built by Nathan. Maintained with care.</sub></p>
